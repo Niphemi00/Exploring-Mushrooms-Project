@@ -71,7 +71,7 @@ Option 2: Python Script (Fast)
 
 ```bash
 git clone https://github.com/Niphemi00/Exploring-Mushrooms-Project.git
-cd mushroom-analysis
+cd Exploring-Mushrooms-Project
 ```
 ## Useful Resources
 
